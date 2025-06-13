@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple movie catalouge website using react and tmdb api
 
 Currently, two official plugins are available:
 
